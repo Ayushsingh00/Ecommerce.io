@@ -7,7 +7,7 @@ This project contains HTML files for building a web application.
 - `index.html`: The main HTML file.
 - `style.css`: Directory containing CSS files.
 - `script.js`: Directory containing JavaScript files.
-- `images/`: Directory containing image assets.
+- `img/`: Directory containing image assets.
 
 ## Usage
 
