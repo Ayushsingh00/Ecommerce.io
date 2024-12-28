@@ -5,8 +5,8 @@ This project contains HTML files for building a web application.
 ## Project Structure
 
 - `index.html`: The main HTML file.
-- `styles/`: Directory containing CSS files.
-- `scripts/`: Directory containing JavaScript files.
+- `style.css`: Directory containing CSS files.
+- `script.js`: Directory containing JavaScript files.
 - `images/`: Directory containing image assets.
 
 ## Usage
