@@ -23,4 +23,4 @@ Feel free to submit issues or pull requests if you find any bugs or have suggest
 This project is licensed under the MIT License.
 
 ## web.github.io
-https://ayushsingh00.github.io/web.github.io/ 
+https://github.com/Ayushsingh00/Ecommerce.io
